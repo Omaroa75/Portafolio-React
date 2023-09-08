@@ -1,36 +1,20 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Mis Tareas",
+      subtitle: "React Hook",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Proyecto desarrollado en React con estilos en CSS, para el control de las tareas diarias. Permite crear tareas, tachar cuando se finalicen y eliminarlas cuando sea necesario.",
       image: "./img/lista-tareas.png",
-      link: "https://i.postimg.cc/bJfnyc1B/2.jpg",
+      link: "https://github.com/Omaroa75/Lista-Tareas-React",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Calculadora",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://i.postimg.cc/bJfnyc1B/2.jpg",
-    },
-    {
-      title: "DevChat",
-      subtitle: "React and Firebase",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://i.postimg.cc/bJfnyc1B/2.jpg",
-    },
-    {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://i.postimg.cc/bJfnyc1B/2.jpg",
+        "Calculadora que permite realizar operaciones básicas, desarrollada en React.",
+      image: "./img/calculadora.png",
+      link: "https://github.com/Omaroa75/Calculadora-React",
     },
   ];
 
-  export let skills=["omar","jacier"];
+  export let skills=["Java","JavaScript","Python","Kotlin","SpringBoot","Django","React","VueJS","Node.js","HTML5","CSS3","Bootstrap","Tailwind", "Android","MySQL","MongoDB","Docker","Linux"];
